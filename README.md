@@ -1,6 +1,19 @@
 # my-scheduler-3pAPI
+This is a simple calendar application that allows users to keeping tracks of their tasks daily and hourly. 
 
-Your Task
+## Website Links/URL
+Deployed: https://binnie51.github.io/my-scheduler-3pAPI/
+
+## How does this function?
+As soon as users launch the app, they will be greeted by the current date and time at the top of the page. The timeblocks represents a regular business hours of 9AM to 5PM. Each timeblock will change color based on the current live time: grey represents the past, coral red represents the present, and pastel green respresents the future.
+Users able to type in entries when they clicked on the timeblocks and customized their daily itenerary however they are pleased.  
+
+## Demo
+![short demo](./video%20demo/Work%20Day%20Scheduler.webm)
+
+
+
+## Your Task
 Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
 You'll need to use the Moment.js library to work with date and time. Be sure to read the documentation carefully and concentrate on using Moment.js in the browser.
