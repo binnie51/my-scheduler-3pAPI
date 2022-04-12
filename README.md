@@ -10,4 +10,4 @@ Users able to type in entries when they clicked on the timeblocks and customized
 
 ## Demo
 ![short demo](./video%20demo/planner-demo.mp4)
-
+Note: the timeblocks on the video may seem to appear grey due to the time the video was made. The blocks should reset to green, indicating future time during midnight.
