@@ -9,7 +9,7 @@ As soon as users launch the app, they will be greeted by the current date and ti
 Users able to type in entries when they clicked on the timeblocks and customized their daily itenerary however they are pleased.  
 
 ## Demo
-![short demo](./video%20demo/Work%20Day%20Scheduler.webm)
+![short demo](./video%20demo/planner-demo.mp4)
 
 
 
