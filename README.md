@@ -15,3 +15,5 @@ Note: the timeblocks on the video may seem to appear grey due to the time the vi
 ## Screenshots
 ![planner all green](./screenshots/planner-1.PNG)
 
+Planner viewed at 2pm:
+![planner viewed @ 2pm](./screenshots/planner-2.PNG)
